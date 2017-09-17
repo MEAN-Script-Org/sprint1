@@ -4,7 +4,7 @@
 
 ### General
 - **SPACING**: A 'tab' in all file formats (html, css, js) should be TWO (2) SPACES. There's ways to automatically configure this in Sublime (and pretty sure other editors), and to convert tabs into spaces (i.e. when you hit 'tab', it'll actually write two spaces). People how use spaces over tabs make MORE MONEY <sup>[[1]](#note1)</sup><sup>[[2]](#note2)</sup>
-- No globals in [production](#Vocab). Only use them for debugging
+- No globals in [production](#vocab). Only use them for debugging
 - Write **descriptive** variable and function names (< 50 characters), so your code speaks for itself. Comments are _lies waiting to happen_ <sup>[[3]](note3)</sup>, therefore only use them to document high level logic, or external APIs functionality.
 - Make your code 'maintainable' and modular, meaning it'll be easy to extend with as little changes as possible (meaning 1, **AT MOST 2** changes), and that these changes don't break something else
     - Eg. Don't hard code or rely in constant sizes (lengths/widths) for 2D Arrays
@@ -14,7 +14,7 @@
 *Below sub-sections are in the works*
 
 ### Heroku
-- Add an 'env' file with the environment variables available in Heroku so process.env.VARIABLE_NAME works while in [development](#Vocab)
+- Add an 'env' file with the environment variables available in Heroku so process.env.VARIABLE_NAME works while in [development](#vocab)
 
 ### JavaScript, bad vs better
 - JS Specific examples of bad vs better code (*need **more***)
