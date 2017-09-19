@@ -39,6 +39,7 @@
 
 ## TO DECIDE:
 - Naming convention: CamelCase vs name_with_underscores
+- Comments: ```// vs /**/```, but tbh the HATED ones are the html ones...
 - Chaining of functions in JavaScript, specially for dreaded promises...
     ``` javascript
     Listings.getAll().then(
