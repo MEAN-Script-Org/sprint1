@@ -1,4 +1,24 @@
-# SWE Project Coding Guidelines
+# Real Project Overview
+
+We're being contracted for **PART** of a new web app. The client company is an used car dealership, and our point of contact within it ("our client") does have full authority over this project, nor have all technical details at hand.
+
+What I've gathered so far has been:
+- Someone is already redesigning their site, and they will provide most functionality/forms for customers to do a loan application
+- We have to wait until that site is done to actually work on our side, since there are a lot of knowledge gaps as to what will ACTUALLY be there, and we want to make sure we don't have redo work of what they already have.
+
+## Must Haves
+- User creation based on First+Last Name, DOB, and Drivers License # (so no emails for now)
+- Tracking functionality: `we would like [our customers] to see ... [and] follow up with their loan process online`
+- She also wants that `new site redirect[s] to our current [domain]`. I'm under the impression that Wordpress currently handles their domain routing. I've asked for the Wordpress account details, but to no avail - We'll need to figure it out once we're given the built site.
+- She `would also like to see places for ads to be placed around the border`
+
+## Nice to Have
+- `A page [or way] that allows customers to ... send in requests, questions, and comments` - **NEED TO DEFINE:** what's a request?
+
+
+
+
+# Coding Guidelines
 
 *Links DO NOT open a new tab for you*
 
