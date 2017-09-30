@@ -1,6 +1,6 @@
 # Real Project Overview
 
-We're being contracted for **PART** of a new web app. The client company is an used car dealership, and our point of contact within it ("our client") does have full authority over this project, nor have all technical details at hand.
+We're being contracted for **PART** of a new web app. The client company is an used car dealership, and our point of contact within it ("our client") does **not** have full authority over this project, nor have all technical details at hand.
 
 What I've gathered so far has been:
 - Someone is already redesigning their site, and they will provide most functionality/forms for customers to do a loan application
